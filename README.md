@@ -4,7 +4,7 @@
 
 Add this to your code
 ```html
-<script src="https://void206551.dev/projects/fun/fun_responses-1.0.1.js" type="module"></script>
+<script src="https://void206551.dev/projects/fun/fun_responses-latest.js" type="module"></script>
 ```
 Or download the [latest release](https://github.com/void206551/fun-responses-browser/releases) and import it.
 
@@ -24,7 +24,8 @@ Or download the [latest release](https://github.com/void206551/fun-responses-bro
 <p id="toast">Toast</p>
 <p id="roast">Roast</p>
 
-<script src="fun_responses-1.0.1.js" type="module"></script>
+<script src="fun_responses-latest.js" type="module"></script>
 </body>
 </html>
 ```
+### [Live Demo](https://void206551.dev/projects/fun/demo/)
