@@ -1,0 +1,14 @@
+{
+  "name": "fun-responses-browser",
+  "version": "1.0.1",
+  "description": "A browser version of fun-responses.",
+  "author": "Jason O'Donnell",
+  "license": "ISC",
+  "keywords": [
+      "fun",
+      "joke",
+      "pickup",
+      "line"
+    ],
+  "homepage": "https://void206551.github.io/fun-responses/"
+}
